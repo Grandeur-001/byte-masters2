@@ -1,0 +1,14 @@
+:root {
+  --bg-dark: #0D0D0D;
+  --accent-orange: #FFA726;
+  --accent-red: #EF5350;
+  --text-primary: #E0E0E0;
+  --text-secondary: #9E9E9E;
+  --line-gray: #333333;
+  --border-gray: #444444;
+  --border-gray: rgb(38 38 38 / 01);
+
+  --accent-orange-faded: rgba(255, 167, 38, 0.1);
+  --accent-red-faded: rgba(239, 83, 80, 0.1);
+  --linear-gradient: linear-gradient(90deg, var(--accent-red) 0%, var(--accent-orange) 100%);
+}
