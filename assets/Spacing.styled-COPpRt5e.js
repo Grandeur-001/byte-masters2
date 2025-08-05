@@ -1,4 +1,4 @@
-import{K as t,v as c,a as d,b as p,p as a,w as i,j as o,t as s,u as r,R as e,x as g,I as x}from"./index-DIXieokj.js";const m=t.span`
+import{K as t,y as c,a as d,b as p,p as a,w as i,j as o,t as s,u as r,R as e,z as g,I as x}from"./index-B_nY5PQX.js";const m=t.span`
     background-image: var(--text-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -39,7 +39,7 @@ import{K as t,v as c,a as d,b as p,p as a,w as i,j as o,t as s,u as r,R as e,x a
     height: 3px;
     background-image: var(--linear-gradient);
     margin-bottom: 2rem;
-`,v={class:"float-in min-h-[0vh] text-center flex flex-col items-center justify-center pt-[2rem] px-[1.5rem]"},_={__name:"Headings",props:{smallHeading:{type:String},mainHeading:{type:String},paragraph:{type:String}},setup(n){return(w,k)=>{const l=c("FlipCards");return p(),d("div",v,[a(r(m),null,{default:i(()=>[o(s(n.smallHeading),1)]),_:1}),a(r(h),{class:"pb-[10px] font-bold"},{default:i(()=>[o(s(n.mainHeading),1)]),_:1}),a(r(f),{class:"pb-5 max-w-[700px] text-center"},{default:i(()=>[o(s(n.paragraph),1)]),_:1}),a(r(b)),a(l)])}}},S=t("div")`
+`,v={class:"float-in min-h-[0vh] text-center flex flex-col items-center justify-center pt-[2rem] px-[1.5rem]"},_={__name:"Headings",props:{smallHeading:{type:String},mainHeading:{type:String},paragraph:{type:String}},setup(n){return(w,k)=>{const l=c("FlipCards");return p(),d("div",v,[a(r(m),null,{default:i(()=>[o(s(n.smallHeading),1)]),_:1}),a(r(h),{class:"pb-[10px] font-bold"},{default:i(()=>[o(s(n.mainHeading),1)]),_:1}),a(r(f),{class:"pb-5 max-w-[700px] text-center"},{default:i(()=>[o(s(n.paragraph),1)]),_:1}),a(r(b)),a(l)])}}},z=t("div")`
   ${e`relative flex flex-col items-start overflow-hidden space-y-3 shadow-lg md:shadow-lg group`}
   border: 1px solid var(--border-gray);
   border-radius: 30px;
@@ -78,7 +78,7 @@ import{K as t,v as c,a as d,b as p,p as a,w as i,j as o,t as s,u as r,R as e,x a
       color: var(--text-primary);
     }
   }
-`,z=t("div")`
+`,S=t("div")`
   ${e`px-[48px] py-[60px] min-h-[25rem]`}
 `,C=t("figure")`
 `,u=g`
@@ -106,4 +106,4 @@ import{K as t,v as c,a as d,b as p,p as a,w as i,j as o,t as s,u as r,R as e,x a
     ${e` mt-[4rem]`}
 `,F=t.div`
     ${e` mt-[6rem]`}
-`;export{z as C,I as D,C as I,F as S,H as T,_,$ as a,S as b,B as c,D as d};
+`;export{S as C,I as D,C as I,F as S,H as T,_,$ as a,z as b,B as c,D as d};
