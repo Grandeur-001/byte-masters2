@@ -1,1 +1,0 @@
-import{s,a as t,b as o,d as a}from"./index-CdZnEX3p.js";const n={},r={class:"about"};function c(_,e){return o(),t("div",r,e[0]||(e[0]=[a("h1",null,"This is an about page",-1)]))}const i=s(n,[["render",c]]);export{i as default};
