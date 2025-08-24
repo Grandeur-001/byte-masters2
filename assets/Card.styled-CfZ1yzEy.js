@@ -1,5 +1,5 @@
-import{R as a,K as r,N as t,O as e}from"./index-RLmrLVRK.js";const i=r("div")`
-  ${a`relative flex flex-col items-start overflow-hidden space-y-3 shadow-lg md:shadow-lg group`}
+import{R as r,K as t,E as e,I as a}from"./index-BRAOcg7S.js";const i=t("div")`
+  ${r`relative flex flex-col items-start overflow-hidden space-y-3 shadow-lg md:shadow-lg group`}
   border: 1px solid var(--border-gray);
   border-radius: 30px;
   transition: all 0.3s ease;
@@ -37,10 +37,12 @@ import{R as a,K as r,N as t,O as e}from"./index-RLmrLVRK.js";const i=r("div")`
       color: var(--text-primary);
     }
   }
-`,s=r("div")`
-  ${a`px-[48px] py-[60px] min-h-[25rem]`}
-`,l=r("figure")`
-`,o=t`
+`,s=t("div")`
+  ${r`px-[42px] py-[60px] min-h-[25rem]`}
+`,d=t("figure")`
+`;t("img")`
+  
+`;const o=e`
   display: inline-block;
   font-size: 50px;
   background-image: var(--linear-gradient);
@@ -48,17 +50,21 @@ import{R as a,K as r,N as t,O as e}from"./index-RLmrLVRK.js";const i=r("div")`
   -webkit-background-clip: text;
   color: transparent;
   -webkit-text-fill-color: transparent;
-`,d=e`
+`,l=a`
     ${o}
-`,p=r("h4")`
-  ${a`font-bold capitalize pb-2 text-[25px]`}
-`,c=r("p")`
-  ${a`text-lg leading-[38px] max-w-[400px] md:text-[1.1rem]`}
+`,p=t("h4")`
+  ${r`font-bold capitalize pb-2 text-[22px] md:text-[25px]`}
+`,c=a`
+  background-image: var(--linear-gradient);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+  -webkit-text-fill-color: transparent;
+`,x=t("p")`
+  ${r`text-[1rem] leading-[32px]  md:leading-[38px] md:text-[1.1rem]`}
   color: var(--text-secondary);
-`,x=r("span")`
-  ${a` px-2.5 py-1 rounded-full font-medium text-[var(--text-secondary)]`}
+`,g=t("span")`
+  ${r` px-2.5 py-1 rounded-full font-medium text-[var(--text-secondary)]`}
   font-size: 11px;
   border: 1px solid var(--line-gray);
-  
-  
-`;export{s as C,c as D,l as I,p as T,d as a,i as b,x as c};
+`;export{s as C,x as D,d as I,p as T,l as a,i as b,g as c,c as d};
