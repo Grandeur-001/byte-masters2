@@ -1,4 +1,4 @@
-import{R as r,K as t,E as e,I as a}from"./index-BRAOcg7S.js";const i=t("div")`
+import{R as r,K as t,E as e,I as a}from"./index-Cv1com4i.js";const i=t("div")`
   ${r`relative flex flex-col items-start overflow-hidden space-y-3 shadow-lg md:shadow-lg group`}
   border: 1px solid var(--border-gray);
   border-radius: 30px;
