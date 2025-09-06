@@ -1,0 +1,1 @@
+import{m as e,b as r,w as n,H as o,s as l,f as s,L as c,J as f}from"./index-nNPAbpgs.js";const u={__name:"LinkBtn",props:{href:{type:String}},setup(t){return(a,i)=>(r(),e(s(f),{to:t.href,class:l(`${s(c)} group`)},{default:n(()=>[o(a.$slots,"default")]),_:3},8,["to","class"]))}};export{u as _};
