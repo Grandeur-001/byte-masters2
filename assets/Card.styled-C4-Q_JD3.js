@@ -1,4 +1,4 @@
-import{R as a,K as t,M as r,I as e}from"./index-nNPAbpgs.js";const i=t("div")`
+import{X as a,W as t,a8 as r,O as e}from"./index-Cvnpr2WH.js";const i=t("div")`
   ${a`relative flex flex-col items-start overflow-hidden space-y-3 shadow-lg md:shadow-lg group`}
   border-radius: 30px;
   transition: all 0.3s ease;

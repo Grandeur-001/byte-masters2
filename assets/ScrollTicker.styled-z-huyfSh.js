@@ -1,4 +1,4 @@
-import{K as t,D as e}from"./index-nNPAbpgs.js";const n=t.div`
+import{W as t,a5 as e}from"./index-Cvnpr2WH.js";const n=t.div`
   position: relative;
   width: 90%;
   height: 80px;

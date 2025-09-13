@@ -1,0 +1,1 @@
+import{m as e,b as r,w as n,Y as o,s as l,f as s,a6 as c,a7 as f}from"./index-Cvnpr2WH.js";const u={__name:"LinkBtn",props:{href:{type:String}},setup(a){return(t,i)=>(r(),e(s(f),{to:a.href,class:l(`${s(c)} group`)},{default:n(()=>[o(t.$slots,"default")]),_:3},8,["to","class"]))}};export{u as _};

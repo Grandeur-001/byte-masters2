@@ -1,4 +1,4 @@
-import{K as $,R as Ne}from"./index-nNPAbpgs.js";const Os=$.span`
+import{W as $,X as Ne}from"./index-Cvnpr2WH.js";const Os=$.span`
     background-image: var(--text-gradient);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
